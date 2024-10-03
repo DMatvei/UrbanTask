@@ -11,3 +11,6 @@
 n = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
 str_n = "".join(str(_) for _ in n)
 print(str_n)
+
+for i in range(5):
+    pass
