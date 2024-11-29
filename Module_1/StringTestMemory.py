@@ -15,3 +15,8 @@
 # for i in range(5):
 #     pass
 #
+a = {'a': 1, 'b' : 2}
+# print(isinstance(a, set))
+b = a.items()
+print((type(b)))
+print(*b)
